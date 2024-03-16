@@ -1,0 +1,6 @@
+@Api_HostAddress = http://localhost:5212
+
+POST {{Api_HostAddress}}/TrashDetection/trash-detection
+Accept: application/json
+
+###
